@@ -1,11 +1,6 @@
 # Aqui-tem-tv
 
 
-#PLAYLISTV: pltv-logo="http://goo.gl/vrZ3mg"
-
-#EXTM3U
-
-
 
 
 #EXTINF:-1 tvg-logo= group-title="CANAIS ABERTOS",[COLOR orange](CANAIS ABERTOS)[/COLOR]
@@ -13,7 +8,7 @@ http://
 
 
 #EXTINF:-1,GLOBO SP skjdhas
-http://95.141.35.86:8081/look/sptvl/playlist.m3u8
+[http://95.141.35.86:8081/look/sptvl/playlist.m3u8](https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8)
 
 #EXTINF:-1,GLOBO RJ (EM MANUNTECAO)
 
